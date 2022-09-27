@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map ESP32ChipID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP32ChipID	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getChipID	KEYWORD2
+getChipID2	KEYWORD2
+getChipID3	KEYWORD2
+getChipID8	KEYWORD2
+getChipID12	KEYWORD2
+
+#######################################
